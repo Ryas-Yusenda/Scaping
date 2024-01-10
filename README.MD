@@ -6,6 +6,7 @@ This repository contains various web scraping projects, each organized into its 
 
 1. [Project List](#project-list)
    1. [Project 1: google-maps-scrapping](#google-maps-scrapping-open)
+   2. [Project 2: scrapping-careerjet](#careerjet-job-scraper-open)
 2. [Getting Started](#getting-started)
 3. [Usage](#usage)
 4. [Contributions](#contributions)
@@ -15,12 +16,23 @@ This repository contains various web scraping projects, each organized into its 
 ## Project List
 
 1. #### Google Maps Scrapping **[open](google-maps-scrapping/)**
+
    - **Description:** This project aims to automate the search process using Puppeteer to navigate to Google Maps and search for a specific location. We then extract the location's name, address, and website from the search results.
    - **Tools/Libraries Used:** Puppeteer, Node.js, Puppeteer Extra and Stealth Plugin.
    - **How to Use:**
      - Navigate to the project folder.
      - Run `npm install` to install the dependencies.
      - Run `node index.js` to run the script.
+
+2. #### Careerjet Job Scraper **[open](scrapping-careerjet/)**
+
+   - **Description:** This Python script automates the process of scraping job information from Careerjet using Selenium and BeautifulSoup. It searches for job listings based on a specified job title and location, extracts details such as job title, company, location, contract type, working hours, and job description from the search results, and saves the collected data in a JSON format.
+   - **Tools/Libraries Used:** Python, Selenium, BeautifulSoup.
+   - **How to Use:**
+     - Navigate to the project folder.
+     - Run `pip install -r requirements.txt` to install the dependencies.
+     - Update the job title and location in the `__main__` block of the `scraper.py` file.
+     - Run `python scraper.py` to run the script.
 
 ## Getting Started
 
