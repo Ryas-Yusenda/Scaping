@@ -1,0 +1,941 @@
+{
+  "businesses": [
+    {
+      "name": "Simetri Coffee Roaster",
+      "address": "Tutup pukul 22.45",
+      "hours": "Kedai Kopi · Jl. Sabirin No.20Buka",
+      "ratingText": "Bintang 4,6 2.096 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMg4tKYGcobu0Fo28opfR02AxH-QVTBrGNmno__=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Simetri+Coffee+Roaster/data=!4m7!3m6!1s0x2e7a58321847366b:0x2d1c974a3f408e1e!8m2!3d-7.784344!4d110.3740934!16s%2Fg%2F11dxnm7j9g!19sChIJazZHGDJYei4RHo5AP0qXHC0?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Analog Coffee Jogja",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Wulung No.14Buka",
+      "ratingText": "Bintang 4,5 511 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOKJCgodkJLCUMJRHbkH3MnNYm0G2PvOyY1Lr4P=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Analog+Coffee+Jogja/data=!4m7!3m6!1s0x2e7a59b0b0c25a89:0xbb8a87811810976b!8m2!3d-7.7764064!4d110.3951015!16s%2Fg%2F11cjp6l1r9!19sChIJiVrCsLBZei4Ra5cQGIGHirs?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Blanco Coffee and Books",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Kranggan No.30Camilan & kopi klasik di kafe trendiBuka",
+      "ratingText": "Bintang 4,6 3.719 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNgsjFA1pHYTydTa4vt1psfj4eWvRHwb21jVf_k=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Blanco+Coffee+and+Books/data=!4m7!3m6!1s0x2e7a583a3b875c11:0xe57a6751df67f10d!8m2!3d-7.7813975!4d110.3648099!16s%2Fg%2F11bw82l3y1!19sChIJEVyHOzpYei4RDfFn31FneuU?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Tekoff Coffee and Roastery",
+      "address": "Tutup pukul 20.00",
+      "hours": "Kedai Kopi · Jalan Sagan Timur GK 5 1053BBuka",
+      "ratingText": "Bintang 4,6 1.189 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPg9ry_f7GLwoRq-AMEmFIn-18_wuqJjZDxV0k1=w137-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Tekoff+Coffee+and+Roastery/data=!4m7!3m6!1s0x2e7a59cb5606d64b:0x274c540e0d27b5a0!8m2!3d-7.7800346!4d110.3787576!16s%2Fg%2F11ddxzzyw0!19sChIJS9YGVstZei4RoLUnDQ5UTCc?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Hayati Coffee Roaster",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Demangan Baru No.7Pusat kopi yang indah & makanan rumahanBuka",
+      "ratingText": "Bintang 4,5 2.325 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMINLQimFa3inQLYXr6AqRYPcXl0OaUhKlin31n=w126-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Hayati+Coffee+Roaster/data=!4m7!3m6!1s0x2e7a59c5a378827d:0x81b916e7bb9064b9!8m2!3d-7.7813901!4d110.3921758!16s%2Fg%2F11g5zxjy_n!19sChIJfYJ4o8VZei4RuWSQu-cWuYE?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Sunset Coffee & Eatery",
+      "address": "Tutup pukul 02.00",
+      "hours": "Kedai Kopi · Jl. NologatenBuka",
+      "ratingText": "Bintang 4,6 1.636 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOKOsfT1WXjendWxjerayaRjHFr9AIrDbxQzOo2=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Sunset+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2e7a59c4b90478a7:0x4788ee88074f68ed!8m2!3d-7.7739888!4d110.4011155!16s%2Fg%2F11s5xlm9c0!19sChIJp3gEucRZei4R7WhPB4juiEc?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Silol Kopi & Eatery",
+      "hours": "Kedai Kopi · Jl. SurotoBuka 24 jam",
+      "ratingText": "Bintang 4,4 14.395 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPH5xM0ahtm3TJHHeBsYCRI3pcVHvZIW74o7CYY=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Silol+Kopi+%26+Eatery/data=!4m7!3m6!1s0x2e7a583270dfb36d:0x11319229b0a5bd3b!8m2!3d-7.7843707!4d110.3744411!16s%2Fg%2F11c6tvy7gq!19sChIJbbPfcDJYei4RO72lsCmSMRE?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Ayara Coffee Shop",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Jend. Sudirman No.40Buka",
+      "ratingText": "Bintang 4,2 720 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP7a3qS8rdcV688Sos7CH71-mh2aQctS6RcfBex=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Ayara+Coffee+Shop/data=!4m7!3m6!1s0x2e7a583188b8edc1:0x424856266372ee95!8m2!3d-7.7835121!4d110.3722931!16s%2Fg%2F11bbyd3hwl!19sChIJwe24iDFYei4Rle5yYyZWSEI?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Awor Gallery & Coffee",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · YAP SQUARE B11, Jl. C. SimanjuntakKafe nyaman, kreasi minuman kopi, pastriBuka",
+      "ratingText": "Bintang 4,6 656 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNYqsOv4lZjiRwK-ZgoTKRsFkaYnyUyB4-4e7R1=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Awor+Gallery+%26+Coffee/data=!4m7!3m6!1s0x2e7a5833f67657a7:0xf85dfd22517d6263!8m2!3d-7.7804034!4d110.3734082!16s%2Fg%2F11c0rsqhsl!19sChIJp1d29jNYei4RY2J9USL9Xfg?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Awor Coffee Junction",
+      "hours": "Kedai Kopi · Jl. Dr. Wahidin Sudirohusodo No.16Buka 24 jam",
+      "ratingText": "Bintang 4,6 308 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMxIqSbIGnn4NlFNV9dBw_geLzxPCB6aC6pJlKZ=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Awor+Coffee+Junction/data=!4m7!3m6!1s0x2e7a59e91fb7d929:0xdc92fc0735d4e48e!8m2!3d-7.7870066!4d110.3787294!16s%2Fg%2F11h_cy0rrv!19sChIJKdm3H-lZei4RjuTUNQf8ktw?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "ESCO RESTAURANT & NO.27 COFFEE",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Pringgodani Jl. Demangan Baru No.14Buka",
+      "ratingText": "Bintang 4,6 1.446 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNoZr94rcj2n8oieH_e1tQ3IkZeYD95h7YfdADf=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/ESCO+RESTAURANT+%26+NO.27+COFFEE/data=!4m7!3m6!1s0x2e7a59c77e5d4c43:0xad66e395ebc2baed!8m2!3d-7.7747038!4d110.3935677!16s%2Fg%2F11b6371rr4!19sChIJQ0xdfsdZei4R7brC65XjZq0?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Loko Coffee Shop Malioboro Yogyakarta",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Komp. Ps. Kembang, Jl. Ps. KembangTempat nongkrong kasual, makan & minumBuka",
+      "ratingText": "Bintang 4,5 6.858 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMqEOhubkEYUllIUDpBAO8mmYbQWQOhhPi_zp1q=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Loko+Coffee+Shop+Malioboro+Yogyakarta/data=!4m7!3m6!1s0x2e7a59860a4f83d1:0x7cb25403089474ed!8m2!3d-7.7898035!4d110.3657669!16s%2Fg%2F11f616bfcc!19sChIJ0YNPCoZZei4R7XSUCANUsnw?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Gudang Kopi Indonesia",
+      "address": "Tutup pukul 21.00",
+      "hours": "Kedai Kopi · Jl. Affandi No.8Buka",
+      "ratingText": "Bintang 4,7 358 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNmza-dmhjWAG2HZvJ5-7kuDa6OQcH9PCmVkLht=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Gudang+Kopi+Indonesia/data=!4m7!3m6!1s0x2e7a5906a863952b:0xc8b2c977bf8ffc3!8m2!3d-7.7820887!4d110.3880976!16s%2Fg%2F11gxp7_n_4!19sChIJK5VjqAZZei4Rw__4e5csiww?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Spezial Kopi Yogyakarta",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · Jl. Nologaten, Jl. Kemiri Kecamatan No.144Buka",
+      "ratingText": "Bintang 4,9 16 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNmTkyxDIZfR0kiWHvA0TEuAifpv7vyS0gXqoc6=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Spezial+Kopi+Yogyakarta/data=!4m7!3m6!1s0x2e7a59c3b03cab3b:0x3276eac7869ebcda!8m2!3d-7.77685!4d110.4007233!16s%2Fg%2F11h9fjwrwq!19sChIJO6s8sMNZei4R2ryehsfqdjI?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "de Ngokow Coffee Roastery & Tea Club Jogja",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Pendopo Ndalem Pujokusuman, Jl. Brigjen KatamsoBuka",
+      "ratingText": "Bintang 4,8 379 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNMpW5YQDc7-yGaxrnCSIh-xZdJ5RDdzkfXL1V5=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/de+Ngokow+Coffee+Roastery+%26+Tea+Club+Jogja/data=!4m7!3m6!1s0x2e7a57565038f46d:0x86f343c915f530be!8m2!3d-7.8134497!4d110.3696241!16s%2Fg%2F11j31027nq!19sChIJbfQ4UFZXei4RvjD1FclD84Y?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Legend Coffee",
+      "address": "Tutup pukul 01.00",
+      "hours": "Kafe · Jl. Abu Bakar Ali No.24-26Camilan, minuman kekinian & kafe simpelBuka",
+      "ratingText": "Bintang 4,4 10.453 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMf66TvPKa05Oh6Uv1FPXlfKP1NgIJyk2GZh9zB=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Legend+Coffee/data=!4m7!3m6!1s0x2e7a582ec18d1347:0x34afc639ceaa0573!8m2!3d-7.7881602!4d110.372794!16s%2Fg%2F1pzrm44fv!19sChIJRxONwS5Yei4RcwWqzjnGrzQ?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Overtone Coffee",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · 697P+GFJBuka",
+      "ratingText": "Bintang 4,8 8 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO9MOKRYgPtTJHWQJeOI5h-mzJuOijXOwKzB9Vp=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Overtone+Coffee/data=!4m7!3m6!1s0x2e7a59fb6166143d:0x11aaa13159342867!8m2!3d-7.7861572!4d110.386135!16s%2Fg%2F11fl0_t2xd!19sChIJPRRmYftZei4RZyg0WTGhqhE?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "My Kopi-O!",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Candrakirana No.21Buka",
+      "ratingText": "Bintang 4,5 3.208 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPfgO5r4sa9KA7RlRhUi1GEoIBqMcfpJchwYaE_=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/My+Kopi-O!/data=!4m7!3m6!1s0x2e7a583365838e81:0x50c3a2bdbe76b7b1!8m2!3d-7.7807057!4d110.3766681!16s%2Fg%2F11cjk3fjf5!19sChIJgY6DZTNYei4Rsbd2vr2iw1A?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Taru Martani Coffee & Resto 1918",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Kompol Bambang Suprapto No.2AKafe santai dengan makanan lokal & kopiBuka",
+      "ratingText": "Bintang 4,7 4.993 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPRDydDWzthIZYxf8F7Fuxt6x7DoSPD-kzdzZfY=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Taru+Martani+Coffee+%26+Resto+1918/data=!4m7!3m6!1s0x2e7a592b975a1ec9:0x43df4a553ffc51c7!8m2!3d-7.7910783!4d110.381436!16s%2Fg%2F1ptx3x6m7!19sChIJyR5alytZei4Rx1H8P1VK30M?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "TETRA Coffee & Eatery - Yogyakarta // Terra Coffee",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Sagan Baru III No.5Bar kopi simpel dengan makanan asliBuka",
+      "ratingText": "Bintang 4,5 805 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMivU_24v6F3L55VK1tbXMplPw3Ti_PpsvooGsN=w92-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/TETRA+Coffee+%26+Eatery+-+Yogyakarta+%2F%2F+Terra+Coffee/data=!4m7!3m6!1s0x2e7a59ecbf771c57:0x41697292a90c4e64!8m2!3d-7.780238!4d110.3779041!16s%2Fg%2F11n18n0z9j!19sChIJVxx3v-xZei4RZE4MqZJyaUE?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "My Kopi-O!",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Candrakirana No.21Buka",
+      "ratingText": "Bintang 4,5 3.208 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPfgO5r4sa9KA7RlRhUi1GEoIBqMcfpJchwYaE_=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/My+Kopi-O!/data=!4m7!3m6!1s0x2e7a583365838e81:0x50c3a2bdbe76b7b1!8m2!3d-7.7807057!4d110.3766681!16s%2Fg%2F11cjk3fjf5!19sChIJgY6DZTNYei4Rsbd2vr2iw1A?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Taru Martani Coffee & Resto 1918",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Kompol Bambang Suprapto No.2AKafe santai dengan makanan lokal & kopiBuka",
+      "ratingText": "Bintang 4,7 4.993 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPRDydDWzthIZYxf8F7Fuxt6x7DoSPD-kzdzZfY=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Taru+Martani+Coffee+%26+Resto+1918/data=!4m7!3m6!1s0x2e7a592b975a1ec9:0x43df4a553ffc51c7!8m2!3d-7.7910783!4d110.381436!16s%2Fg%2F1ptx3x6m7!19sChIJyR5alytZei4Rx1H8P1VK30M?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "TETRA Coffee & Eatery - Yogyakarta // Terra Coffee",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Sagan Baru III No.5Bar kopi simpel dengan makanan asliBuka",
+      "ratingText": "Bintang 4,5 805 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMivU_24v6F3L55VK1tbXMplPw3Ti_PpsvooGsN=w92-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/TETRA+Coffee+%26+Eatery+-+Yogyakarta+%2F%2F+Terra+Coffee/data=!4m7!3m6!1s0x2e7a59ecbf771c57:0x41697292a90c4e64!8m2!3d-7.780238!4d110.3779041!16s%2Fg%2F11n18n0z9j!19sChIJVxx3v-xZei4RZE4MqZJyaUE?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Warkop Hippies",
+      "address": "Tutup pukul 03.00",
+      "hours": "Kedai Kopi · Jl. Graha SinduadiBuka",
+      "ratingText": "Bintang 4,6 379 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNINAYObHMlXJDZTzNJxLjG-SIVcoTlyq79r-5Z=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Warkop+Hippies/data=!4m7!3m6!1s0x2e7a59c09d64449f:0x6d3ab34e21ed3449!8m2!3d-7.7740805!4d110.3983251!16s%2Fg%2F11g9g3ppcg!19sChIJn0RkncBZei4RSTTtIU6zOm0?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Juang Jogja",
+      "address": "Tutup pukul 01.00",
+      "hours": "Kedai Kopi · Jl. Melati Wetan No.11Buka",
+      "ratingText": "Bintang 4,4 166 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM7IHzCBrmRRcv1P84zalNWMw9d5ZPAXvf8sYzb=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Juang+Jogja/data=!4m7!3m6!1s0x2e7a598c53fb0aff:0x6395c3345859d47f!8m2!3d-7.7913965!4d110.3867145!16s%2Fg%2F11s1b9r0df!19sChIJ_wr7U4xZei4Rf9RZWDTDlWM?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Tanamera Coffee Yogyakarta",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kafe · Jl. Jend. Sudirman No.3Buka",
+      "ratingText": "Bintang 4,6 1.201 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNifQW5BR4IhXpS4_IvUvcfRI-PPlLqDUfK_HOd=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Tanamera+Coffee+Yogyakarta/data=!4m7!3m6!1s0x2e7a58308ec0c5b3:0x1c0a26ede2472941!8m2!3d-7.7825821!4d110.3675124!16s%2Fg%2F11ggw0krrf!19sChIJs8XAjjBYei4RQSlH4u0mChw?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Coffee Story",
+      "hours": "Kedai Kopi · Jl. Dagen No.109Buka 24 jam",
+      "ratingText": "Bintang 4,5 32 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOTwJ312inLiQoUVazYpZwLqADwdQWm_R5J8_ep=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Coffee+Story/data=!4m7!3m6!1s0x2e7a5827aa5aa99d:0x1bc69e08f09f3058!8m2!3d-7.7938405!4d110.3615354!16s%2Fg%2F11c58kzjmr!19sChIJnalaqidYei4RWDCf8Aiexhs?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Jeeva Yogyakarta",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Suhartono No.2Buka",
+      "ratingText": "Bintang 4,5 1.969 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNjTup47ua7o_nXXvwsJFTTQxEGyl0UvI4Sn7dw=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Jeeva+Yogyakarta/data=!4m7!3m6!1s0x2e7a58328658f5e9:0x1bf5640bc0de9bd6!8m2!3d-7.7848923!4d110.3754035!16s%2Fg%2F11gfly1cqy!19sChIJ6fVYhjJYei4R1pvewAtk9Rs?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Journey Coffee & Records",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Komp. Colombo No.37Buka",
+      "ratingText": "Bintang 4,6 575 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO6hd3soCVoCZiVHCzfseg2Lg85kTPkYAwfE-LI=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Journey+Coffee+%26+Records/data=!4m7!3m6!1s0x2e7a591ed9f59769:0x579b679fee3a50ec!8m2!3d-7.7785994!4d110.3897488!16s%2Fg%2F11gk8n5bbz!19sChIJaZf12R5Zei4R7FA67p9nm1c?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "KopiKiranKamu Jogja",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · Jl. Affandi No.11, RT.50/RW.13Buka",
+      "ratingText": "Bintang 4,8 26 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMUcWfoLVpt6QXCeVsQgfqEPdfXbVH_9tSkRXZ2=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/KopiKiranKamu+Jogja/data=!4m7!3m6!1s0x2e7a59c5ad14308b:0xb2f5fad21153b9fd!8m2!3d-7.7814644!4d110.3878777!16s%2Fg%2F11fr6qz18v!19sChIJizAUrcVZei4R_blTEdL69bI?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Kita Cafe",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Nologaten No.66Buka",
+      "ratingText": "Bintang 4,7 21 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPgCidaMSOyOyO-i3bmrelTW0dIgbbNWoYcO9fO=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Kita+Cafe/data=!4m7!3m6!1s0x2e7a590c37840b73:0x962a21e70a3a06ad!8m2!3d-7.7747323!4d110.4009605!16s%2Fg%2F11h01x85rn!19sChIJcwuENwxZei4RrQY6CuchKpY?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Le travail Coffee",
+      "address": "Tutup pukul 01.00",
+      "hours": "Kafe · Jl. Laksda Adisucipto No.19Buka",
+      "ratingText": "Bintang 4,5 501 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNaJr5ljNychah5sjM5Qo2h83ltazzdFFCJ6f9Y=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Le+travail+Coffee/data=!4m7!3m6!1s0x2e7a59c6a3cc1847:0xaad574a6c15e4bb2!8m2!3d-7.78306!4d110.388822!16s%2Fg%2F11jl3ft4kg!19sChIJRxjMo8ZZei4RsktewaZ01ao?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "SunFlower Restaurant",
+      "hours": "Kedai Kopi · Abadi Hotel Jogja, Jl. Ps. Kembang No.49Buka 24 jam",
+      "ratingText": "Bintang 4,3 14 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNG0mjvlF-lbc3r4v79yGcL4mUUebs03GqcTWZl=w199-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/SunFlower+Restaurant/data=!4m7!3m6!1s0x2e7a58244c4d4f8d:0x284fc2f3eeafc224!8m2!3d-7.7903171!4d110.3633174!16s%2Fg%2F1pzyc6wgc!19sChIJjU9NTCRYei4RJMKv7vPCTyg?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Oppa Keopi",
+      "address": "Tutup pukul 20.00",
+      "hours": "Kedai Kopi · Jl. Malioboro No.42Kedai kopi & tempat berkumpul terbukaBuka",
+      "ratingText": "Bintang 4,1 977 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOWZKBoet_NxKTMsNtahkDN_oiO4B5x6nHRqck7=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Oppa+Keopi/data=!4m7!3m6!1s0x2e7a58288fcce757:0x9a88a3369ecfb757!8m2!3d-7.7937615!4d110.3664475!16s%2Fg%2F11bbwyntk6!19sChIJV-fMjyhYei4RV7fPnjajiJo?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Space Coffee Roastery",
+      "address": "Tutup pukul 23.30",
+      "hours": "Kedai Kopi · Gg. Loncang No.88Buka",
+      "ratingText": "Bintang 4,7 1.121 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNc2r5o5UPrC-kHvWLvrdx_5NDQukHhV2tJe3X5=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Space+Coffee+Roastery/data=!4m7!3m6!1s0x2e7a584335baa0b5:0x92012d15e3dd6d9f!8m2!3d-7.7660474!4d110.3606993!16s%2Fg%2F11c1yhbnjz!19sChIJtaC6NUNYei4Rn23d4xUtAZI?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Lunaria Coffee Yogyakarta",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Gedongkiwo No.29Buka",
+      "ratingText": "Bintang 4,8 756 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMkELNb67MufNUEQoDqYO2EIuGuRPN4a8Mii3QA=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Lunaria+Coffee+Yogyakarta/data=!4m7!3m6!1s0x2e7a57f68edfb81d:0xa0190d28ff274712!8m2!3d-7.8137018!4d110.3540593!16s%2Fg%2F11sh7fjn9b!19sChIJHbjfjvZXei4REkcn_ygNGaA?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Inspira Roasters Artisan Coffee",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Gaia Cosmo Hotel, Jl. Ipda Tut Harsono No.16Buka",
+      "ratingText": "Bintang 4,6 162 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOMd0yaWlqH5hQeJtqKmbigvb-ASas4NeDMbH8D=w138-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Inspira+Roasters+Artisan+Coffee/data=!4m7!3m6!1s0x2e7a57636c2813e7:0xf66abd95c3e09e6a!8m2!3d-7.7990087!4d110.3927406!16s%2Fg%2F11g8nj958z!19sChIJ5xMobGNXei4Rap7gw5W9avY?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "KOPI LELET JOGJA (Repose Coffee)",
+      "address": "Tutup pukul 20.00",
+      "hours": "Kedai Kopi · Jl. Tutul Gg. Tutul I No.14Buka",
+      "ratingText": "Bintang 5,0 5 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNHTU9BZ8quEHaAvuTS19kKNs3cdZJW-TRd0pE8=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/KOPI+LELET+JOGJA+%28Repose+Coffee%29/data=!4m7!3m6!1s0x2e7a598fade3e939:0x9f4664df5714c942!8m2!3d-7.7793919!4d110.397747!16s%2Fg%2F11jlhgmvkb!19sChIJOenjrY9Zei4RQskUV99kRp8?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "28 Coffee Taman Siswa",
+      "hours": "Kedai Kopi · Jl. Taman Siswa No.134Buka 24 jam",
+      "ratingText": "Bintang 4,6 223 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMPHySwcbHrNwF8Ap2uhelp-Ew7a_cDreKMoQ0F=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/28+Coffee+Taman+Siswa/data=!4m7!3m6!1s0x2e7a57e81e754f4b:0x3eea62e9a796bffd!8m2!3d-7.8121622!4d110.3766031!16s%2Fg%2F11lkv5lwj0!19sChIJS091HuhXei4R_b-Wp-li6j4?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "KOPITU - Nologaten",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Kedawung No.156Buka",
+      "ratingText": "Bintang 4,4 84 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPNAX0dX11O4DH__Gqe_ChIwk6HitVUa4An21pa=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/KOPITU+-+Nologaten/data=!4m7!3m6!1s0x2e7a59c4def235d5:0xd91ea4caba3b5a2f!8m2!3d-7.7762524!4d110.4016754!16s%2Fg%2F11tj84qf3f!19sChIJ1TXy3sRZei4RL1o7usqkHtk?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "OH Coffee & Tea, Nologaten",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · Jl. Nologaten No.212Buka",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNymObs8SxEqgHK35zAw-oFeziVzmtCueMNlFbm=w92-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/OH+Coffee+%26+Tea,+Nologaten/data=!4m7!3m6!1s0x2e7a57032ea3852b:0xc56ff7d380b5b734!8m2!3d-7.7770484!4d110.4006297!16s%2Fg%2F11h801mkg2!19sChIJK4WjLgNXei4RNLe1gNP3b8U?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Soulthan Coffee Kopi Luwak& 52 kopi Nusantara",
+      "hours": "Kedai Kopi · Parkiran Bis Wisata Senopati, Jl. Panembahan Senopati No.16 Kios No. 1Buka 24 jam",
+      "ratingText": "Bintang 4,8 65 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNYCVG02ks8ag-kdeXKPE-9sXeEuOK6jg_X4Mm7=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Soulthan+Coffee+Kopi+Luwak%26+52+kopi+Nusantara/data=!4m7!3m6!1s0x2e7a579a55555555:0x33e02ff636837d1c!8m2!3d-7.8016687!4d110.3688092!16s%2Fg%2F11gh6bg6xn!19sChIJVVVVVZpXei4RHH2DNvYv4DM?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Pengantar Kopi",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Gang Hansip Karno Waluyo Tukangan, Jl. Tegal Panggung DN II No.664Buka",
+      "ratingText": "Bintang 4,6 328 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOfzLhQHrEJcsVnmEDEsEEPkzp97tzSH2aDqHGV=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Pengantar+Kopi/data=!4m7!3m6!1s0x2e7a591c869a2cf1:0x11e3857210d2a8d6!8m2!3d-7.7907969!4d110.3711515!16s%2Fg%2F11h0558y56!19sChIJ8SyahhxZei4R1qjSEHKF4xE?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Hidjau Coffee & Mart",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kafe · Jl. KH. Ahmad Dahlan No.132Buka",
+      "ratingText": "Bintang 4,5 1.031 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPbqFA9PA-ZRFEPGO5OFaLUN_1QDfgbikNy5HgY=w144-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Hidjau+Coffee+%26+Mart/data=!4m7!3m6!1s0x2e7a57f20706455d:0xe4c928bf3c451acf!8m2!3d-7.8009776!4d110.3567648!16s%2Fg%2F11j26220y0!19sChIJXUUGB_JXei4RzxpFPL8oyeQ?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Always Coffee Jogja",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Melon MundusarenBuka",
+      "ratingText": "Bintang 4,7 335 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMGIXHU28AZHTSDJFTFYypMcOSUVOsI-DXF6Exm=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Always+Coffee+Jogja/data=!4m7!3m6!1s0x2e7a5920fa7c67bf:0xdb9eed0589611e4f!8m2!3d-7.7750352!4d110.4033789!16s%2Fg%2F11flc1cvvy!19sChIJv2d8-iBZei4RTx5hiQXtnts?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Aneka Kopi Jogja",
+      "address": "Tutup pukul 02.00",
+      "hours": "Kedai Kopi · Jl. Bimokunthing No.50Buka",
+      "ratingText": "Bintang 5,0 16 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMkH-aOYtKqzCcaPDlqvK3wS-wMQd-6z4K0hD71=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Aneka+Kopi+Jogja/data=!4m7!3m6!1s0x2e7a59d0c625ecdd:0xd6679f388761cb10!8m2!3d-7.7880406!4d110.3898314!16s%2Fg%2F11s3d61cbt!19sChIJ3ewlxtBZei4REMthhzifZ9Y?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "ibis coffee shop",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · 6948+F69Buka",
+      "ratingText": "Bintang 4,8 4 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNn6ZZlnEQLmruXePysa6vPoOZKbVZrAlKcBf4=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/ibis+coffee+shop/data=!4m7!3m6!1s0x2e7a5971fbc0e6a3:0xd852658c1aae0748!8m2!3d-7.7938254!4d110.3655992!16s%2Fg%2F11f7ptr82v!19sChIJo-bA-3FZei4RSAeuGoxlUtg?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Ammanya Coffee",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Mataram No.9Buka",
+      "ratingText": "Bintang 4,8 35 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM6ASIVfke0mmmObu5rpuV3b-psI2pflaFvZkPF=w80-h142-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Ammanya+Coffee/data=!4m7!3m6!1s0x2e7a57fce0b4ce11:0x2eaf64b029052506!8m2!3d-7.7959722!4d110.3689605!16s%2Fg%2F11rny6vz32!19sChIJEc604PxXei4RBiUFKbBkry4?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "El Patio Coffee Shop",
+      "hours": "Kedai Kopi · Melia Purosani Hotel, Jl. Mayor Suryotomo No.31 Lobby FloorBuka 24 jam",
+      "ratingText": "Bintang 3,6 9 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMjGcPrPScRtYtJnFvGS5hJ8JQswVENS1DTCgCs=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/El+Patio+Coffee+Shop/data=!4m7!3m6!1s0x2e7a5787a5ddd97b:0xc4057dda8b806024!8m2!3d-7.7972484!4d110.368993!16s%2Fg%2F1pzpy18cv!19sChIJe9ndpYdXei4RJGCAi9p9BcQ?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Saka Coffee Yogyakarta",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · Jl. Bener No.4Buka",
+      "ratingText": "Bintang 4,8 392 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN6U9_KEo0kxPkiTNLhaxEFyoJpEgBUR5c1GkU=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Saka+Coffee+Yogyakarta/data=!4m7!3m6!1s0x2e7a59ab64214971:0xe759142c70e63942!8m2!3d-7.7809088!4d110.3520529!16s%2Fg%2F11sbpv1y3m!19sChIJcUkhZKtZei4RQjnmcCwUWec?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kedai Kopi Jogja",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Perwakilan No.29ABuka",
+      "ratingText": "Bintang 4,4 22 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN1-5i6mLI_gLMWVKDTKk37d1cofKzkXcKSJjJx=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kedai+Kopi+Jogja/data=!4m7!3m6!1s0x2e7a58288462ca35:0x41a8144fc5313400!8m2!3d-7.7926646!4d110.3672589!16s%2Fg%2F1hm2vndj8!19sChIJNcpihChYei4RADQxxU8UqEE?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Atas Rumput Cafe",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Nologaten No.66Buka",
+      "ratingText": "Bintang 4,4 8 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMl_bDs25gS95B5-HE9zyV6TDP-VmrrhGRoyQbP=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Atas+Rumput+Cafe/data=!4m7!3m6!1s0x2e7a59bb1fd6239d:0xc7160f4d854df10c!8m2!3d-7.7743449!4d110.4007835!16s%2Fg%2F11pc9msj5j!19sChIJnSPWH7tZei4RDPFNhU0PFsc?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "PRADA_Coffee Shop",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. PerumnasBuka",
+      "ratingText": "Bintang 4,6 645 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNZ4H9_XBZPKVn465sO26ELE54LedxHX0Spgvg-=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/PRADA_Coffee+Shop/data=!4m7!3m6!1s0x2e7a583276eb8cc3:0x5b96d3b4db1b083a!8m2!3d-7.7744007!4d110.4048836!16s%2Fg%2F11_tp6b3x!19sChIJw4zrdjJYei4ROggb27TTlls?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Malabar Coffee Shop",
+      "hours": "Kafe · Jl. Gowongan Kidul No.33-49Buka 24 jam",
+      "imgUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RMooI6KtjZGzETi1KgV5xQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=142.43163&pitch=0&thumbfov=100",
+      "googleUrl": "https://www.google.com/maps/place/Malabar+Coffee+Shop/data=!4m7!3m6!1s0x2e7a58256d043987:0xce0165d9513215c9!8m2!3d-7.7875877!4d110.3652965!16s%2Fg%2F11c47frz2_!19sChIJhzkEbSVYei4RyRUyUdllAc4?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Leambou coffee",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Dabag, Jl. Ace Jl. Wahid Hasyim No.62aBuka",
+      "ratingText": "Bintang 4,9 83 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPKUrhURTOf58aiS_d_AzqjXoxpdZk38wQ93fN-=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Leambou+coffee/data=!4m7!3m6!1s0x2e7a59b0c5978631:0xbf205941e2753c92!8m2!3d-7.7719345!4d110.4005385!16s%2Fg%2F11p0fvc7by!19sChIJMYaXxbBZei4Rkjx14kFZIL8?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Noren Coffee & Roastery",
+      "address": "Tutup pukul 23.30",
+      "hours": "Kedai Kopi · Jl. Sosrokusuman No.178-109Buka",
+      "ratingText": "Bintang 4,9 104 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMx8QEwwb4ZOVjJTgnqaXMHRAgWHOpLq9oNKoGB=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Noren+Coffee+%26+Roastery/data=!4m7!3m6!1s0x2e7a591724375fb7:0x97c71b2c042dcc0f!8m2!3d-7.7938604!4d110.3666938!16s%2Fg%2F11n64d6ph4!19sChIJt183JBdZei4RD8wtBCwbx5c?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Sellie Coffee Malioboro",
+      "address": "Tutup pukul 23.30",
+      "hours": "Kedai KopiBuka",
+      "ratingText": "Bintang 4,5 463 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMBA-rUA7UDua5xTmadMyMbsNt_v9whAATpwEyv=w80-h142-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Sellie+Coffee+Malioboro/data=!4m7!3m6!1s0x2e7a59aeed4baba7:0xbc3c74fe9eb9b138!8m2!3d-7.7939257!4d110.3654873!16s%2Fg%2F11h1pmb2vf!19sChIJp6tL7a5Zei4ROLG5nv50PLw?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Coffee Jogja",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kafe · Jl. Ngadisuryan No.14Buka",
+      "ratingText": "Bintang 4,8 9 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMSblfaDWkpVO3TFV2xfBFBWCR6xEvz_i3ujo4r=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Coffee+Jogja/data=!4m7!3m6!1s0x2e7a57a5cff7a4b5:0x7a44df9b5255e5fe!8m2!3d-7.8113781!4d110.3617133!16s%2Fg%2F11f6g27zpz!19sChIJtaT3z6VXei4R_uVVUpvfRHo?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Manggara's Coffee Corner",
+      "hours": "Kedai Kopi · Jl. Malioboro No.39Buka 24 jam",
+      "ratingText": "Bintang 4,8 8 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPhElrilM9k_XoG1OOAXRdNflxWxGLnVJGIpIMT=w80-h95-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Manggara%27s+Coffee+Corner/data=!4m7!3m6!1s0x2e7a57b72a10db0f:0x618f01ab75e37e1d!8m2!3d-7.795018!4d110.3654608!16s%2Fg%2F11cknjy5qn!19sChIJD9sQKrdXei4RHX7jdasBj2E?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Secret Garden Coffee and Chocolate",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · 59X3+RHV, Jl. Prof. DR. Ki Amri Yahya No.2Kafe outdoor dengan suasana romantisBuka",
+      "ratingText": "Bintang 4,4 3.920 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOFqO5UMANA0XLKnDRpLPLdHS5C8cGs7XGL74HN=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Secret+Garden+Coffee+and+Chocolate/data=!4m7!3m6!1s0x2e7a57f4c94f1307:0xd62dc8d30f859940!8m2!3d-7.8001571!4d110.3541675!16s%2Fg%2F11b6b10c__!19sChIJBxNPyfRXei4RQJmFD9PILdY?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Monti Kopi Yogyakarta",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Di belakang SMA negeri 7, Jl. Pugeran Timur No.4, RT.05/RW.02Buka",
+      "ratingText": "Bintang 4,7 55 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNOoiiPZeeSTkRIKX3KScNBY3RXvFFqldp67m6i=w199-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Monti+Kopi+Yogyakarta/data=!4m7!3m6!1s0x2e7a570fcc7f7fed:0x2a52a90401d6c4d8!8m2!3d-7.8139246!4d110.3591328!16s%2Fg%2F11t6y4swqj!19sChIJ7X9_zA9Xei4R2MTWAQSpUio?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Soemadipuran Coffee Space & Roastery & photobobs self studio",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · depan koramil 04, Jl tukangan komplek kai, Jl. LempuyanganBuka",
+      "ratingText": "Bintang 4,7 55 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMmBCSUKCkFcD-UkAE5I-Zz84lDtKpBvKaOMksL=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Soemadipuran+Coffee+Space+%26+Roastery+%26+photobobs+self+studio/data=!4m7!3m6!1s0x2e7a59d34c41ccd1:0xaff4d29c816e5192!8m2!3d-7.7891131!4d110.3739384!16s%2Fg%2F11s3vqcdj0!19sChIJ0cxBTNNZei4RklFugZzS9K8?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Balakosa Bistro, Coffee, & Space",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. NologatenBuka",
+      "ratingText": "Bintang 4,5 1.066 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNvFUj3h_3FvPs3JRnRtv5d96t7e1X9mvxMMikD=w204-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Balakosa+Bistro,+Coffee,+%26+Space/data=!4m7!3m6!1s0x2e7a591c731ea473:0xca569de5b51dab61!8m2!3d-7.7764699!4d110.4020398!16s%2Fg%2F11fksgwvpk!19sChIJc6QecxxZei4RYasdteWdVso?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Coffee Road",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Malioboro No.79Buka",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO83ofPSn7FingW1kXqxDs4miMkb829odNf-Ub2=w80-h142-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Coffee+Road/data=!4m7!3m6!1s0x2e7a5827cc0284d7:0x11e8f9d3f1a64979!8m2!3d-7.7937937!4d110.3655118!16s%2Fg%2F11cnbtgclr!19sChIJ14QCzCdYei4ReUmm8dP56BE?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Starbucks Coffee Malioboro",
+      "address": "Tutup pukul 23.30",
+      "hours": "Kedai Kopi · Jl. Malioboro No.41Jaringan kedai kopi ikonis dari SeattleBuka",
+      "ratingText": "Bintang 4,6 3.184 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOufHNsCUS1r6LGjkpw9EIJMNYg_as_zvBhq1wj=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Malioboro/data=!4m7!3m6!1s0x2e7a5827c29c2e0b:0xf294a6cde5b3a06d!8m2!3d-7.7949259!4d110.3654214!16s%2Fg%2F11c2q2z0wp!19sChIJCy6cwidYei4RbaCz5c2mlPI?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Piezo Kopi",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Sukonandi No.9Buka",
+      "ratingText": "Bintang 4,7 277 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNrZRauDKQ9heLVRJlZNrAHzGF-UdiA6J1Y4Mrw=w92-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Piezo+Kopi/data=!4m7!3m6!1s0x2e7a570901123bbd:0xcd5ad57ec9e10a12!8m2!3d-7.7989352!4d110.3815065!16s%2Fg%2F11r12vggx6!19sChIJvTsSAQlXei4REgrhyX7VWs0?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Civet Coffee Malioboro",
+      "address": "Tutup pukul 23.30",
+      "hours": "Kedai Kopi · Jl. Ps. Kembang No.35Buka",
+      "ratingText": "Bintang 4,6 190 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN4wedO_UCJ3an4V1w2BTCopw_qPFaf72wG0Yg3=w103-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Civet+Coffee+Malioboro/data=!4m7!3m6!1s0x2e7a5825ce0d634d:0x855ff2fd79386e35!8m2!3d-7.790051!4d110.3639728!16s%2Fg%2F11cr_lcp09!19sChIJTWMNziVYei4RNW44ef3yX4U?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Punika Deli",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Royal Ambarrukmo Lobby, Jl. Laksda Adisucipto No.81Buka",
+      "ratingText": "Bintang 4,7 362 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO1qYrR7Z3Z3-MT4BkhQsIceZ-qYl1fMzkpLcs7=w118-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Punika+Deli/data=!4m7!3m6!1s0x2e7a59e8195a3f25:0xfa15f1ce87bc78a6!8m2!3d-7.7824588!4d110.402625!16s%2Fg%2F11c2qxrtz4!19sChIJJT9aGehZei4Rpni8h87xFfo?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Joss 'Lek No'",
+      "address": "Tutup pukul 02.00",
+      "hours": "Kedai Kopi · Jl. Ps. KembangBuka",
+      "ratingText": "Bintang 4,6 426 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOuIpC0bOLP3GGFb6vhSzat2XhMSbOE07XMptr9=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Joss+%27Lek+No%27/data=!4m7!3m6!1s0x2e7a5825855fbd6d:0xf268acf77593b86f!8m2!3d-7.7898129!4d110.3650827!16s%2Fg%2F11f101lt1v!19sChIJbb1fhSVYei4Rb7iTdfesaPI?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "KHAS Malioboro Coffee Shop",
+      "address": "Tutup pukul 21.00",
+      "hours": "Kedai Kopi · Jl. Gadean No.3Buka",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPqzYwAYplBJMrFpo90y5z1ip7furA_uucE5pAq=w86-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/KHAS+Malioboro+Coffee+Shop/data=!4m7!3m6!1s0x2e7a57f305a932c9:0x15c9419d17a77249!8m2!3d-7.7982407!4d110.363368!16s%2Fg%2F11svlrfdxp!19sChIJyTKpBfNXei4RSXKnF51ByRU?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "BelajaR Ngopi Yogyakarta",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · Jl. Hayam Wuruk No.14, RW.001Buka",
+      "ratingText": "Bintang 4,6 104 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMHFr238mk0I155A9knehm_bMortVdijYgotKMC=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/BelajaR+Ngopi+Yogyakarta/data=!4m7!3m6!1s0x2e7a57e12af79793:0xe646491a3ad8893b!8m2!3d-7.795797!4d110.3727691!16s%2Fg%2F11fj2rfrw1!19sChIJk5f3KuFXei4RO4nYOhpJRuY?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Lime Coffee Shop",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · Fave Hotel Kotabaru Area, Jalan I Dewa Nyoman Oka No.30, KotabaruBuka",
+      "ratingText": "Bintang 4,7 19 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNLzuSxZEYUwEV0s-GgKVs_22_L4Ly4bBHXVPa5=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Lime+Coffee+Shop/data=!4m7!3m6!1s0x2e7a582e2bad31d5:0x2f3f6be8f5cdd185!8m2!3d-7.7857333!4d110.3698347!16s%2Fg%2F11cs5fdb71!19sChIJ1TGtKy5Yei4RhdHN9ehrPy8?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Sapulu Coffee",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kafe · Jl. Panembahan Mangkurat No.10Buka",
+      "ratingText": "Bintang 4,6 491 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOjdJdY5J1u6XzZBZmpXRbTotkfXlLZllWWwGUD=w138-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Sapulu+Coffee/data=!4m7!3m6!1s0x2e7a573d95f8fcf9:0x45d8a9cdabd4bc41!8m2!3d-7.80701!4d110.3667512!16s%2Fg%2F11fkl9jtl_!19sChIJ-fz4lT1Xei4RQbzUq82p2EU?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Sulthan Coffee",
+      "address": "Tutup pukul 02.00",
+      "hours": "Kedai Kopi · Jl. P. Mangkubumi No.20Buka",
+      "ratingText": "Bintang 4,9 25 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPGUIrMGetmE2yQlQd1NTSCV1RwwaWwT6C2cdij=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Sulthan+Coffee/data=!4m7!3m6!1s0x2e7a599e8598fd83:0x37e34c7ed3420032!8m2!3d-7.7872583!4d110.3667117!16s%2Fg%2F11r2nbg3v6!19sChIJg_2YhZ5Zei4RMgBC035M4zc?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Menoewa Kopi Malioboro",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Abu Bakar AliBuka",
+      "ratingText": "Bintang 4,2 655 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPJPFvX1-AJ72-YsNHBcfC8B-JMK7GD0DXIK_A=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Menoewa+Kopi+Malioboro/data=!4m7!3m6!1s0x2e7a592d12e78ae7:0x25dbcc6ec9f902fd!8m2!3d-7.7898163!4d110.3706234!16s%2Fg%2F11sz180_fl!19sChIJ54rnEi1Zei4R_QL5yW7M2yU?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Aryon Coffee",
+      "address": "Tutup pukul 20.00",
+      "hours": "Kedai Kopi · Jl. Langenarjan Kidul No.15Buka",
+      "ratingText": "Bintang 4,9 16 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNzJyuEtf_KYCN5S4SnR0EtDqc4cb6IIwYFPv_2=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Aryon+Coffee/data=!4m7!3m6!1s0x2e7a57ea9073339b:0x1b038f520c96163e!8m2!3d-7.813784!4d110.3642653!16s%2Fg%2F11rdvrp414!19sChIJmzNzkOpXei4RPhaWDFKPAxs?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Jnawi Coffee",
+      "address": "Buka pukul 16.00",
+      "hours": "Kedai Kopi · 697G+P92, Jl. SarehSegera buka",
+      "ratingText": "Bintang 4,6 268 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOb0KzaS9MoCMghONJwa_yxv27lWoLeNh4NeXr2=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Jnawi+Coffee/data=!4m7!3m6!1s0x2e7a599c21d2fb99:0xdcd85db2d74a9353!8m2!3d-7.7857451!4d110.3759002!16s%2Fg%2F11g_yh7psh!19sChIJmfvSIZxZei4RU5NK17Jd2Nw?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "de culture coffe",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Ledok Tukangan Dn 2 / 20, kel, RT.14/RW.03Buka",
+      "ratingText": "Bintang 4,0 1 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPRaXp_fy_YneoCIuqHJTSNFjXW46h-pW-MND-x=w80-h142-k-no",
+      "googleUrl": "https://www.google.com/maps/place/de+culture+coffe/data=!4m7!3m6!1s0x2e7a59dbe859df69:0xaa2619f5df3e001c!8m2!3d-7.7935975!4d110.3697414!16s%2Fg%2F11qp3jt42_!19sChIJad9Z6NtZei4RHAA-3_UZJqo?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kenies Coffee Express",
+      "address": "Tutup pukul 21.00",
+      "hours": "Kedai Kopi · 6CH2+8JPBuka",
+      "ratingText": "Bintang 5,0 2 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN0t4jxrg6vV0vjL073Sl1zkpwm_OaRTmtfGyVV=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kenies+Coffee+Express/data=!4m7!3m6!1s0x2e7a590bbfaa0d4f:0x75e797c72f517a4d!8m2!3d-7.771658!4d110.4015653!16s%2Fg%2F11hz3j84zt!19sChIJTw2qvwtZei4RTXpRL8eX53U?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Tupitu Kopi",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · 6927+9W5, Jl. Margo MulyoBuka",
+      "ratingText": "Bintang 4,8 18 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPZebYadC8nxUyH0OXX3Yvxp6WEiuwXtz1V40M=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Tupitu+Kopi/data=!4m7!3m6!1s0x2e7a577a25e44bab:0x40c45a259ea8c26b!8m2!3d-7.7991086!4d110.3648684!16s%2Fg%2F11p5f2fsbr!19sChIJq0vkJXpXei4Ra8KoniVaxEA?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Kenangan - Ramai Malioboro",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · Ramai Malioboro, Ground Floor, Jl. Jend. Ahmad Yani No.73Buka",
+      "ratingText": "Bintang 4,6 539 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPxVPnj7pC6w53dtoV5y1MqHLxdsXskLbq098C6=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Kenangan+-+Ramai+Malioboro/data=!4m7!3m6!1s0x2e7a576c16d8e7bd:0xa0fb8c0dd5e8fab4!8m2!3d-7.7971435!4d110.365081!16s%2Fg%2F11frdjsyxw!19sChIJvefYFmxXei4RtPro1Q2M-6A?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Azen Coffee Malioboro",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Suryatmajan No.39Buka",
+      "ratingText": "Bintang 4,8 235 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNAW-qw_bmsEz9SZNoPP-TcTcz9YAKdoApA8Je_=w204-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Azen+Coffee+Malioboro/data=!4m7!3m6!1s0x2e7a5706029f71f7:0x19d22fe42ae80e4e!8m2!3d-7.7964771!4d110.3678034!16s%2Fg%2F11q3mgyzmp!19sChIJ93GfAgZXei4RTg7oKuQv0hk?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Goeboex Coffee Roastery & Futsal",
+      "address": "Tutup pukul 01.00",
+      "hours": "Kedai Kopi · Jl. Perumnas No.158Buka",
+      "ratingText": "Bintang 4,4 3.513 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOUdLwHPNPJImcRyvMilI06B1H2vn-EFwjx9RRK=w137-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Goeboex+Coffee+Roastery+%26+Futsal/data=!4m7!3m6!1s0x2e7a599520f04ba1:0xfdea13df4ae09d94!8m2!3d-7.7725431!4d110.4053049!16s%2Fg%2F1pzxk_cn1!19sChIJoUvwIJVZei4RlJ3gSt8T6v0?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Mato Kopi",
+      "hours": "Kedai Kopi · 69JX+PQR, Jl. Selokan MataramKedai terbuka dengan camilan & kopiBuka 24 jam",
+      "ratingText": "Bintang 4,4 5.076 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOqMxrVBuDQRdKmiRKJmn4Z3esJkIFYsxwyESSx=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Mato+Kopi/data=!4m7!3m6!1s0x2e7a59bc2c42f137:0x878bc3ff348acccd!8m2!3d-7.7681428!4d110.3993878!16s%2Fg%2F11b6hyg3rj!19sChIJN_FCLLxZei4RzcyKNP_Di4c?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "LOKIO Cafe",
+      "address": "Tutup pukul 21.00",
+      "hours": "Kedai Kopi · Jl. Margo Utomo No.21Buka",
+      "ratingText": "Bintang 4,9 53 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOIGSPEiHVAatCIfISvNQtwpLmVILhRpwfESnUw=w138-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/LOKIO+Cafe/data=!4m7!3m6!1s0x2e7a59fa73674733:0x10f0ceae68ffed00!8m2!3d-7.7875364!4d110.3663697!16s%2Fg%2F11kj06s_h5!19sChIJM0dnc_pZei4RAO3_aK7O8BA?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi dibawahtangga Kotabaru Jogja",
+      "address": "Tutup pukul 21.30",
+      "hours": "Kedai Kopi · Jl. Juadi No.1Buka",
+      "ratingText": "Bintang 4,9 35 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMqqAAnhudYqUAZbgs-LNUYQyHTotwJBctxBRtk=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+dibawahtangga+Kotabaru+Jogja/data=!4m7!3m6!1s0x2e7a59dd62776015:0x5ef9d5bbdb9ff57b!8m2!3d-7.7857668!4d110.374983!16s%2Fg%2F11tbw8_5pv!19sChIJFWB3Yt1Zei4Re_Wf27vV-V4?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Pretty Pots Coffee & Eatery",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Perumnas No.184-234Buka",
+      "ratingText": "Bintang 4,5 148 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM3aJltaASko3Xqb-XNZtWFDk24m5Qwo29spOXD=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Pretty+Pots+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2e7a59d40bcf5f7b:0xf40542db3fc42740!8m2!3d-7.7743712!4d110.4047433!16s%2Fg%2F11q3mvx5ws!19sChIJe1_PC9RZei4RQCfEP9tCBfQ?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Lantai Bumi",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Pogung BaruBuka",
+      "ratingText": "Bintang 4,4 3.262 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMRkfjdwkBg6vq5O718kY2oEwGR0oyXOoxsBUzj=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Lantai+Bumi/data=!4m7!3m6!1s0x2e7a58536329ab6d:0x5f0762f382bb2fe4!8m2!3d-7.7596891!4d110.3763809!16s%2Fg%2F11cs481x33!19sChIJbaspY1NYei4R5C-7gvNiB18?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Gedor Jogja",
+      "address": "Buka pukul 19.00",
+      "hours": "Kedai Kopi · Jl. P. Mangkubumi No.123Tutup",
+      "ratingText": "Bintang 4,6 29 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNOX0pkObIV-pLfVoXv0TuEEGy_gPJtwm6k_MfS=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Gedor+Jogja/data=!4m7!3m6!1s0x2e7a58307ec4700d:0x63c1d36fb09711ce!8m2!3d-7.7834557!4d110.3668609!16s%2Fg%2F11c2ppl8xs!19sChIJDXDEfjBYei4RzhGXsG_TwWM?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Rakjat Coffee and Eatery",
+      "address": "Tutup pukul 03.00",
+      "hours": "Kedai KopiBuka",
+      "ratingText": "Bintang 4,4 413 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMf5LIEl_EERQKD38wOfa6tiLgCkDy-XsKqnIqr=w204-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Rakjat+Coffee+and+Eatery/data=!4m7!3m6!1s0x2e7a598b5a1a3d6f:0xd8078ff221334902!8m2!3d-7.7723094!4d110.404512!16s%2Fg%2F11r7b1_xyl!19sChIJbz0aWotZei4RAkkzIfKPB9g?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Tutup",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Perumnas SeturanBuka",
+      "ratingText": "Bintang 4,9 18 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMcsbWQRNaFp2WQ7r_mBOfuqxAZG4OnhV9-bvZ_=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Tutup/data=!4m7!3m6!1s0x2e7a598e04bc9f2b:0xaaf1fa84ceb8d348!8m2!3d-7.7750359!4d110.4046007!16s%2Fg%2F11kd73x_r4!19sChIJK5-8BI5Zei4RSNO4zoT68ao?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kalasan Coffee Shop",
+      "hours": "Kafe · Jl. Margo Utomo No.103",
+      "ratingText": "Bintang 4,7 3 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMnYVHf6vEGeFEmdKOdi3jU14SJT8TapBKlQ-IV=w194-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kalasan+Coffee+Shop/data=!4m7!3m6!1s0x2e7a583075d40001:0x984ce0cb07fc9e45!8m2!3d-7.7841247!4d110.3667868!16s%2Fg%2F11j4swtbfb!19sChIJAQDUdTBYei4RRZ78B8vgTJg?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopa Kopi Purwanggan",
+      "address": "Buka pukul 17.00",
+      "hours": "Kedai Kopi · Jl. Bausasran No.56Tutup",
+      "ratingText": "Bintang 4,7 350 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNtTpMpUYPSoNbqmoyq6OplVPfb_z1hb5u45qj1=w92-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopa+Kopi+Purwanggan/data=!4m7!3m6!1s0x2e7a578050fa2597:0x3fca6f23001be369!8m2!3d-7.7972536!4d110.3762304!16s%2Fg%2F11cr_g2w5n!19sChIJlyX6UIBXei4RaeMbACNvyj8?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Cafe HYUNG",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Jl. Kedawung No.150Buka",
+      "ratingText": "Bintang 5,0 11 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOuBHm0Nwqk6nYB1S-sgGgsGdkHO4J0bw64h_sx=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Cafe+HYUNG/data=!4m7!3m6!1s0x2e7a59c8421a9649:0xc9304767e6d90a69!8m2!3d-7.7761257!4d110.4014962!16s%2Fg%2F11twsgr4dd!19sChIJSZYaQshZei4RaQrZ5mdHMMk?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Sellie Coffee",
+      "address": "Buka pukul 17.00",
+      "hours": "Kedai Kopi · NG 3, Jl. Gerilya No.822, RT.039/RW.010Kedai kopi dgn dekorasi industrialTutup",
+      "ratingText": "Bintang 4,5 909 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOgszD1nsUBiIkzJtGKnGupsLS9kc5mQrlBYIFI=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Sellie+Coffee/data=!4m7!3m6!1s0x2e7a57a3e79ffec9:0x3676bb0bb4651e15!8m2!3d-7.8202984!4d110.3719697!16s%2Fg%2F12hmn972g!19sChIJyf6f56NXei4RFR5ltAu7djY?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Temanggung Asto Coffee Jogja",
+      "address": "Buka Jum pukul 17.00",
+      "hours": "Kedai Kopi · Jl. A.M. Sangaji No.15Tutup",
+      "ratingText": "Bintang 4,7 36 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPn88z0-jpyej-nsGb1D79eI5OBCUhVQKf54Edo=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Temanggung+Asto+Coffee+Jogja/data=!4m7!3m6!1s0x2e7a59b4ecb96677:0x8953fec2b1d03086!8m2!3d-7.7819137!4d110.367012!16s%2Fg%2F11gy3jkrtn!19sChIJd2a57LRZei4RhjDQscL-U4k?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Warung ALRA",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · Pajeksan GT1/533, RT.032/RW.008Buka",
+      "ratingText": "Bintang 5,0 3 Ulasan",
+      "imgUrl": "//maps.gstatic.com/tactile/pane/result-no-thumbnail-1x.png",
+      "googleUrl": "https://www.google.com/maps/place/Warung+ALRA/data=!4m7!3m6!1s0x2e7a59ad005c9205:0x33b7d728e5399e67!8m2!3d-7.7946953!4d110.3645261!16s%2Fg%2F11tcs2src3!19sChIJBZJcAK1Zei4RZ5455SjXtzM?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "7 Clover Coffee Caravan",
+      "address": "Tutup pukul 00.30",
+      "hours": "Kedai Kopi · Jl. PerumnasBuka",
+      "ratingText": "Bintang 4,8 156 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOJhyMxy0hMjx6UTMxCtiTra2IJQ_Qo7irzOSBe=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/7+Clover+Coffee+Caravan/data=!4m7!3m6!1s0x2e7a59962f3d9923:0x7fe54765ccc7193c!8m2!3d-7.7720849!4d110.4056224!16s%2Fg%2F11kl8x7fvl!19sChIJI5k9L5ZZei4RPBnHzGVH5X8?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Gandroeng Kopi",
+      "address": "Tutup pukul 01.00",
+      "hours": "Kedai Kopi · Jl. PerumnasBuka",
+      "ratingText": "Bintang 4,4 1.585 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOoYumWEiqGvF39nr61dxRNb5jo3-nSU0lz7dvM=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Gandroeng+Kopi/data=!4m7!3m6!1s0x2e7a59eb9c94698f:0x6ec6ac3589ba6839!8m2!3d-7.7759711!4d110.4044585!16s%2Fg%2F11c1n9r_2y!19sChIJj2mUnOtZei4ROWi6iTWsxm4?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "꧋ꦛꦼꦒꦣꦺꦕꦺꦴꦥ꦳꧀ꦥ꦳ꦺ the gade coffe",
+      "hours": "Kedai Kopi · Jl. Mas Suharto No.50",
+      "imgUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ohQ-06Mv2sATSkdJSOrF7w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=137.99944&pitch=0&thumbfov=100",
+      "googleUrl": "https://www.google.com/maps/place/%EA%A7%8B%EA%A6%9B%EA%A6%BC%EA%A6%92%EA%A6%A3%EA%A6%BA%EA%A6%95%EA%A6%BA%EA%A6%B4%EA%A6%A5%EA%A6%B3%EA%A7%80%EA%A6%A5%EA%A6%B3%EA%A6%BA+the+gade+coffe/data=!4m7!3m6!1s0x2e7a5965041d0fa5:0x995605e1eb19b116!8m2!3d-7.7934929!4d110.3726165!16s%2Fg%2F11trs9jgxd!19sChIJpQ8dBGVZei4RFrEZ6-EFVpk?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "kamayan coffee & eatery(ꦏꦩꦪꦚ꧀ꦕꦺꦴꦥ꦳꧀ꦥ꦳ꦼꦲꦼ&ꦲꦺꦪꦠꦼꦂꦪ꧀)",
+      "address": "Tutup pukul 23.00",
+      "hours": "Kedai Kopi · 6CG3+3GR, Jl. Melon MundusarenBuka",
+      "ratingText": "Bintang 4,9 18 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM3aNZ1ssBuSSV0gj2NA-TA9sx9qztzyDYopxOj=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/kamayan+coffee+%26+eatery%28%EA%A6%8F%EA%A6%A9%EA%A6%AA%EA%A6%9A%EA%A7%80%EA%A6%95%EA%A6%BA%EA%A6%B4%EA%A6%A5%EA%A6%B3%EA%A7%80%EA%A6%A5%EA%A6%B3%EA%A6%BC%EA%A6%B2%EA%A6%BC%26%EA%A6%B2%EA%A6%BA%EA%A6%AA%EA%A6%A0%EA%A6%BC%EA%A6%82%EA%A6%AA%EA%A7%80%29/data=!4m7!3m6!1s0x2e7a591b7032f9d5:0xe222ef186b960e9b!8m2!3d-7.7747545!4d110.4037511!16s%2Fg%2F11qr8yq942!19sChIJ1fkycBtZei4Rmw6WaxjvIuI?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Coffee Shop Baznas Kota Yogyakarta",
+      "address": "Buka Kam pukul 08.00",
+      "hours": "Kedai Kopi · 59XR+QJG, Jl. Ipda Tut HarsonoTutup",
+      "ratingText": "Bintang 5,0 1 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMu1RWSKLVvwQ283G1Ab94O6lHJ3ZXJatLm38q8=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Coffee+Shop+Baznas+Kota+Yogyakarta/data=!4m7!3m6!1s0x2e7a572ee11322df:0xf057a47ed15c667!8m2!3d-7.8006767!4d110.3916333!16s%2Fg%2F11srgbl40z!19sChIJ3yIT4S5Xei4RZ8YV7Ud6BQ8?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Pungka Yogyakarta",
+      "address": "Tutup pukul 22.30",
+      "hours": "Kedai Kopi · Jl. Ori I No.10Buka",
+      "ratingText": "Bintang 4,8 15 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPF7tC0n1y9I-pgsCs4ih7psissCe17_UWGXr_Q=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Pungka+Yogyakarta/data=!4m7!3m6!1s0x2e7a59f89495f1df:0x80f753f6bb3ee41c!8m2!3d-7.7820009!4d110.3967862!16s%2Fg%2F11sdtwcbm0!19sChIJ3_GVlPhZei4RHOQ-u_ZT94A?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "K-Nam Bujana Coffee Shop",
+      "address": "Buka Kam pukul 08.00",
+      "hours": "Kedai Kopi · Jl. Kenari No.4Tutup",
+      "ratingText": "Bintang 4,9 18 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOr7tEtwDI25y5aRiPkY-9dAxBSBLJVBclQBWFC=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/K-Nam+Bujana+Coffee+Shop/data=!4m7!3m6!1s0x2e7a57854694dae3:0xc7729cdfb82714af!8m2!3d-7.7978271!4d110.3821977!16s%2Fg%2F11t105jjxr!19sChIJ49qURoVXei4RrxQnuN-ccsc?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Tentara langit coffee",
+      "hours": "Kedai Kopi · Jl. Malioboro No.47",
+      "imgUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K3DhdMFB9-0oiiRhk4bOFA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=315.62186&pitch=0&thumbfov=100",
+      "googleUrl": "https://www.google.com/maps/place/Tentara+langit+coffee/data=!4m7!3m6!1s0x2e7a59753d918fd3:0x7d046633e565e15a!8m2!3d-7.7947174!4d110.3654955!16s%2Fg%2F11mw78fm4y!19sChIJ04-RPXVZei4RWuFl5TNmBH0?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Prambanan",
+      "hours": "Kedai Kopi · 6939+QQ9",
+      "ratingText": "Bintang 5,0 2 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNVzWUWuZd2eWcnEUs0UffvDGmLcxAJ7ivsyacO=w80-h171-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Prambanan/data=!4m7!3m6!1s0x2e7a59df2fc5cf07:0xb7b931a97175ee32!8m2!3d-7.7955798!4d110.3694896!16s%2Fg%2F11rtgqsrjm!19sChIJB8_FL99Zei4RMu51cakxubc?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Menoea kopi",
+      "hours": "Kedai Kopi · 6939+QQ9",
+      "ratingText": "Bintang 4,0 1 Ulasan",
+      "imgUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PN8Iceq4vTpD1XUglcBXbA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=94.95679&pitch=0&thumbfov=100",
+      "googleUrl": "https://www.google.com/maps/place/Menoea+kopi/data=!4m7!3m6!1s0x2e7a596c1dfdb567:0x74c9da53ee6318bd!8m2!3d-7.7955798!4d110.3694896!16s%2Fg%2F11v5_3gvr0!19sChIJZ7X9HWxZei4RvRhj7lPayXQ?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Omah Kopi Loewak Pak Hartono",
+      "address": "Buka Kam pukul 09.00",
+      "hours": "Kedai Kopi · Jalan Dagen, Jl. Sosromenduran Jl. Sosrowijayan GT I No.290Tutup",
+      "ratingText": "Bintang 5,0 4 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPw4cI_O7F_9A7WDF4ituw7-lq3DHVTX_FMYeKB=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Omah+Kopi+Loewak+Pak+Hartono/data=!4m7!3m6!1s0x2e7a5993360bd7c9:0x64c8fcddd496a863!8m2!3d-7.7934087!4d110.3651173!16s%2Fg%2F11kptqrq36!19sChIJydcLNpNZei4RY6iW1N38yGQ?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Lanang Jogjakarta",
+      "address": "Buka pukul 18.00",
+      "hours": "Kedai Kopi · 6949+H2VTutup",
+      "ratingText": "Bintang 4,8 74 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMjyOnVtzb7J7ybGJVqn0AWdl0HaBpXpAsKW3CB=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Lanang+Jogjakarta/data=!4m7!3m6!1s0x2e7a59a4c70ba44b:0xfb0375452ac63bd!8m2!3d-7.7935117!4d110.3675577!16s%2Fg%2F11h5rfgjpl!19sChIJS6QLx6RZei4RvWOsUlQ3sA8?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "TEDUH COFFEE",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai KopiBuka",
+      "ratingText": "Bintang 4,6 905 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN5uIh6fv-GFs4iA7rwYFzFyud4L0f2NVkm9TVS=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/TEDUH+COFFEE/data=!4m7!3m6!1s0x2e7a59bff99d4049:0x17f7ee09015a1eb3!8m2!3d-7.7759366!4d110.4098358!16s%2Fg%2F11fj2mlg87!19sChIJSUCd-b9Zei4Rsx5aAQnu9xc?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Fore Coffee - Godean, Yogyakarta",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · Jl. Godean KM1 No.38 Kav 1-6Buka",
+      "ratingText": "Bintang 4,8 632 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO_4me-Kp1i-VLsCclVbZhF2Q1Me5BulrIq2Qgb=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Fore+Coffee+-+Godean,+Yogyakarta/data=!4m7!3m6!1s0x2e7a5948c4bc02dd:0xd965237b4f74d6cf!8m2!3d-7.7812647!4d110.3501994!16s%2Fg%2F11pz8f5h57!19sChIJ3QK8xEhZei4Rz9Z0T3sjZdk?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Joss 99 Jogja(ꦏꦺꦴꦥꦶꦗꦺꦴꦱ꧀ꦱ꧀)",
+      "hours": "Kedai Kopi · Jl. Mataram No.83",
+      "ratingText": "Bintang 4,0 5 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM9x8gLEqPFIRnAvOiIjoEcG27t9kaBRZmIaCD9=w80-h142-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Joss+99+Jogja%28%EA%A6%8F%EA%A6%BA%EA%A6%B4%EA%A6%A5%EA%A6%B6%EA%A6%97%EA%A6%BA%EA%A6%B4%EA%A6%B1%EA%A7%80%EA%A6%B1%EA%A7%80%29/data=!4m7!3m6!1s0x2e7a59f71665c2bf:0xb3c3b5697587d4c3!8m2!3d-7.7923276!4d110.3677477!16s%2Fg%2F11j4dnkqbw!19sChIJv8JlFvdZei4Rw9SHdWm1w7M?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Tempat Ngopi Jogja",
+      "address": "Buka pukul 17.00",
+      "hours": "Kedai Kopi · Jl. BabaranTutup",
+      "ratingText": "Bintang 4,7 88 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPXVwk-M2WtB3B7Cw1pjPzNaJup-AhbrUUW3O7k=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Tempat+Ngopi+Jogja/data=!4m7!3m6!1s0x2e7a57dd145d92d5:0x8d1b6dc06e84c53f!8m2!3d-7.8118541!4d110.388287!16s%2Fg%2F11fn33k55f!19sChIJ1ZJdFN1Xei4RP8WEbsBtG40?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "GRIYO NGANGKRING & NGOPI MBAH DIGDO",
+      "address": "Tutup pukul 22.30",
+      "hours": "Kedai Kopi · Jalan Sawo, 30 , Rt/Rw. 05/28, GatenBuka",
+      "ratingText": "Bintang 4,7 167 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP9eq0lCYaWDf29ll7kjRR2mi49woOzaBlHOqD6=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/GRIYO+NGANGKRING+%26+NGOPI+MBAH+DIGDO/data=!4m7!3m6!1s0x2e7a59b8dc21fb1b:0xf73e85b770493810!8m2!3d-7.7722067!4d110.400007!16s%2Fg%2F11gw3bdlqq!19sChIJG_sh3LhZei4REDhJcLeFPvc?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Gen's_Coffee Roastery and Eatery",
+      "address": "Tutup pukul 22.00",
+      "hours": "Kedai Kopi · 6CG3+MWP, Jl. Perumnas SeturanBuka",
+      "ratingText": "Bintang 4,9 35 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNZY_97u_npEdzKtyBl44cW-G9LE1aJzYaSnIGW=w80-h106-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Gen%27s_Coffee+Roastery+and+Eatery/data=!4m7!3m6!1s0x2e7a59566ab17dd9:0x2b9195c2d9e99e41!8m2!3d-7.7734948!4d110.4047495!16s%2Fg%2F11sswvmc_m!19sChIJ2X2xalZZei4RQZ7p2cKVkSs?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Angkringan Bu Tini",
+      "address": "Tutup pukul 04.00",
+      "hours": "Kedai Kopi · Jl. Hayam WurukBuka",
+      "ratingText": "Bintang 5,0 2 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNH9q2oVy0q1lJA90xvY5qC8nfTV2dvAMs69Bno=w80-h142-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Angkringan+Bu+Tini/data=!4m7!3m6!1s0x2e7a59dbdfdb8baf:0x574fe4a5a0757e91!8m2!3d-7.7940088!4d110.3730388!16s%2Fg%2F11j6_dtjp7!19sChIJr4vb39tZei4RkX51oKXkT1c?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "+62 Coffee Shop",
+      "hours": "Kedai Kopi · 6CH3+PP5",
+      "ratingText": "Bintang 4,5 2 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO8nNuIj9sL3uyqc3KwsekYWB0JONzArkSJg5EG=w138-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/%2B62+Coffee+Shop/data=!4m7!3m6!1s0x2e7a5939f1004d03:0x1b06264c18933c55!8m2!3d-7.7707466!4d110.4043725!16s%2Fg%2F11fwg3y5hl!19sChIJA00A8TlZei4RVTyTGEwmBhs?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "NOX Coffee Boutique",
+      "address": "Tutup pukul 00.00",
+      "hours": "Kedai Kopi · Natasha Skin Clinic Center, KM.5 No, Jl. Kaliurang KM.5 No.53 2nd floorBuka",
+      "ratingText": "Bintang 4,5 661 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPvomdKNKRHHdrMy-U25QraOwBTQDnHcl2IrHQn=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/NOX+Coffee+Boutique/data=!4m7!3m6!1s0x2e7a59ac81dc03ad:0xda74fcc432ca15c1!8m2!3d-7.7579066!4d110.3816834!16s%2Fg%2F11bv2g6lbr!19sChIJrQPcgaxZei4RwRXKMsT8dNo?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Kopi Joss GowoTresno",
+      "address": "Buka Min pukul 00.00",
+      "hours": "Kedai Kopi · Jl. Mataram No.78Tutup",
+      "ratingText": "Bintang 4,6 11 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMlD0J9qHmBYtzp3R0wOt5M_fr7oUgofr4_SJDb=w163-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Kopi+Joss+GowoTresno/data=!4m7!3m6!1s0x2e7a59a3f947aa1d:0x74275b0cdbf91727!8m2!3d-7.792524!4d110.3677106!16s%2Fg%2F11nngbxw5g!19sChIJHapH-aNZei4RJxf52wxbJ3Q?authuser=0&hl=id&rclk=1"
+    },
+    {
+      "name": "Salam Kopi",
+      "address": "Buka pukul 16.00",
+      "hours": "Kedai Kopi · Jl. Sosrowijayan GT I No.61Segera buka",
+      "ratingText": "Bintang 4,7 73 Ulasan",
+      "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOzOtu3Rwfhej2LHXhOGV5KcNfz4fYrOwX0f7Nq=w122-h92-k-no",
+      "googleUrl": "https://www.google.com/maps/place/Salam+Kopi/data=!4m7!3m6!1s0x2e7a594b5dc5a92f:0xa638d1e47cb0ef29!8m2!3d-7.7909575!4d110.3642142!16s%2Fg%2F11fjv2633_!19sChIJL6nFXUtZei4RKe-wfOTROKY?authuser=0&hl=id&rclk=1"
+    }
+  ]
+}
