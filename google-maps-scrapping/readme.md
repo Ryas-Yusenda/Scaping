@@ -1,4 +1,4 @@
-# Careerjet Job Scraper
+# Google Maps Scrapping
 
 - **How to Use**
   - Navigate to the project folder.
